@@ -58,7 +58,8 @@ h1 span {
 	width: 140px;
     height: 35px;
 	cursor: pointer;
-	font-size: 13px
+	font-size: 13px;
+	outline: none;
 }
 
 .flex-about {
@@ -118,7 +119,8 @@ h2 {
 	text-transform: uppercase;
     height: 44px;
 	cursor: pointer;
-	font-size: 14px
+	font-size: 14px;
+	outline: none;
 }
 
 .box {
@@ -313,6 +315,7 @@ footer p {
 	-o-transition: all .1s ease-in;
 	-ms-transition: all .1s ease-in;
 	transition: all .1s ease-in;
+	outline: none;
 }
 
 #myBtn:hover {
